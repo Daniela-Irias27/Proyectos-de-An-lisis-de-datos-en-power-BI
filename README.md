@@ -39,7 +39,11 @@ Analista de Datos con experiencia en **Power BI, SQL, Python y automatización d
 
 ### 2. Dashboard de Análisis de Personal — 207 Empleados (Power BI)
 
-![Dashboard Análisis de Personal](./proyecto-RH/screenshot.png)
+<a href="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-RH/Dashboard-de-Analisis-de-Personal.pbix">
+  <img src="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-RH/screenshot.png" alt="Dashboard de Análisis de Personal" width="700">
+</a>
+
+> 🖱️ Haz clic en la imagen para descargar el archivo de Power BI.
 
 **Objetivo:** Centralizar y analizar en un solo tablero interactivo las métricas clave de RR. HH. de la plantilla laboral, distribuidas en 4 departamentos (TI, Administrativo, Ventas y Producción).
 
