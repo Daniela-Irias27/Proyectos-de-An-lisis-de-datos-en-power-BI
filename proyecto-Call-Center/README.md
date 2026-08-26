@@ -1,10 +1,9 @@
 # Análisis de Servicio al Cliente (Power BI)
 
 
-<a href="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-Call-Center/Analisis-Call-Center.pbix">
+
   <a href="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-Call-Center/Analisis-Call-Center.pbix">
   <img src="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-Call-Center/screenshot.png" alt="Dashboard Análisis de Call Center" width="700">
-</a>
 </a>
 
 > 🖱️ Haz clic en la imagen para descargar el archivo de Power BI.
