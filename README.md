@@ -67,7 +67,8 @@ Analista de Datos con experiencia en **Power BI, SQL, Python y automatización d
 
 **Herramientas:** Power BI · DAX · Power Query · Modelado de datos
 
-📥 [Descargar archivo .pbix](./proyecto-servicio-cliente/dashboard-servicio.pbix) &nbsp;|&nbsp; 📄 [Ver detalle del proyecto](./proyecto-servicio-cliente/README.md)
+📥 [Descargar archivo .pbix](./proyecto-Call-Center
+/Analisis Call Center.pbix) &nbsp;|&nbsp; 📄 [Ver detalle del proyecto](./proyecto-Call-Center/README.md)
 
 ---
 
