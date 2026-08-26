@@ -23,5 +23,5 @@ Diseñar un tablero comercial e interactivo para monitorear ventas, facturación
 Power BI · DAX · Power Query · Modelado de datos
 
 ## Archivos
-- `dashboard-tiendas.pbix` — archivo editable de Power BI Desktop
+- `Analisis-Financiero` — archivo editable de Power BI Desktop
 - `screenshot.png` — vista previa del dashboard
