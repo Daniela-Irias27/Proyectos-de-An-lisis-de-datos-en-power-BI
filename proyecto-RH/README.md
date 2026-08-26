@@ -1,7 +1,7 @@
 # Dashboard de Análisis de Personal — 207 Empleados (Power BI)
 
 <a href="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-RH/Dashboard-de-Analisis-de-Personal.pbix">
-  <img src="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-RH/screenshot1.png" alt="Dashboard de Análisis de Personal" width="900">
+  <img src="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-RH/screenshot.png" alt="Dashboard de Análisis de Personal" width="700">
 </a>
 
 ## Contexto
