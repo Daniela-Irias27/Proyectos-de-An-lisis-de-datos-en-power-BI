@@ -26,3 +26,4 @@ Power BI · DAX · Power Query · Modelado de datos
 ## Archivos
 - `Analisis-Call-Center.pbix` — archivo editable de Power BI Desktop
 - `screenshot.png` — vista previa del dashboard
+- `Datos_de_servicio.xlsx` — data
