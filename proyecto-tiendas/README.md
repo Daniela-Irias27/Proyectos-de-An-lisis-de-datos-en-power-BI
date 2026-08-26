@@ -25,3 +25,4 @@ Power BI · DAX · Power Query · Modelado de datos
 ## Archivos
 - `Analisis-Financiero` — archivo editable de Power BI Desktop
 - `screenshot.png` — vista previa del dashboard
+- `db_ventas_ESP.xlsx` — data
