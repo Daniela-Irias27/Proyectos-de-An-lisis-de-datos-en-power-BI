@@ -25,3 +25,4 @@ Power BI · DAX · Power Query · Modelado de datos
 ## Archivos
 - `Dashboard-de-Analisis-de-personal.pbix` — archivo editable de Power BI Desktop
 - `screenshot.png` — vista previa del dashboard
+- `db_integrantes_Esp` — data
