@@ -62,7 +62,12 @@ Analista de Datos con experiencia en **Power BI, SQL, Python y automatización d
 
 ### 3. Análisis de Servicio al Cliente (Power BI)
 
-![Dashboard Servicio al Cliente](./proyecto-servicio-cliente/screenshot.png)
+<a href="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-Call-Center/Analisis-Call-Center.pbix">
+  <img src="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-Call-Center/screenshot.png" alt="Dashboard Análisis de Call Center" width="700">
+</a>
+
+
+> 🖱️ Haz clic en la imagen para descargar el archivo de Power BI.
 
 **Objetivo:** Evaluar el desempeño del área de atención al cliente a partir de indicadores de tiempo de espera, satisfacción y volumen de atenciones, identificando oportunidades de mejora operativa.
 
