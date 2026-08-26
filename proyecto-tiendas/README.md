@@ -1,6 +1,11 @@
 # Seguimiento Financiero de Tiendas — Retail de Calzado (Power BI)
 
-![Dashboard](./screenshot.png)
+<a href="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-tiendas/Analisis-Financiero.pbix">
+  <img src="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-tiendas/screenshot.png" alt="Dashboard de Análisis de Personal" width="700">
+</a>
+
+> 🖱️ Haz clic en la imagen para descargar el archivo de Power BI.
+
 
 ## Contexto
 Proyecto de portafolio con dataset simulado de una cadena retail de calzado deportivo con 8 tiendas ubicadas en Brasil.
