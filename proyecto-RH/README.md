@@ -23,5 +23,5 @@ Centralizar y analizar en un solo tablero interactivo las métricas clave de la 
 Power BI · DAX · Power Query · Modelado de datos
 
 ## Archivos
-- `dashboard-personal.pbix` — archivo editable de Power BI Desktop
+- `Dashboard-de-Analisis-de-personal.pbix` — archivo editable de Power BI Desktop
 - `screenshot.png` — vista previa del dashboard
