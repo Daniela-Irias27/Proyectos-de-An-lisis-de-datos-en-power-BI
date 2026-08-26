@@ -4,6 +4,9 @@
   <img src="https://github.com/Daniela-Irias27/Proyectos-de-An-lisis-de-datos-en-power-BI/raw/main/proyecto-RH/screenshot.png" alt="Dashboard de Análisis de Personal" width="700">
 </a>
 
+> 🖱️ Haz clic en la imagen para descargar el archivo de Power BI.
+
+
 ## Contexto
 Proyecto de portafolio con dataset simulado de RR. HH. para una plantilla de 207 empleados distribuidos en 4 departamentos.
 
