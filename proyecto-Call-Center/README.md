@@ -24,5 +24,5 @@ Evaluar el desempeño del área de atención al cliente a partir de indicadores 
 Power BI · DAX · Power Query · Modelado de datos
 
 ## Archivos
-- `dashboard-servicio.pbix` — archivo editable de Power BI Desktop
+- `Analisis-Call-Center.pbix` — archivo editable de Power BI Desktop
 - `screenshot.png` — vista previa del dashboard
