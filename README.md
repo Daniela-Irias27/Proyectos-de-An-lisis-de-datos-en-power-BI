@@ -49,7 +49,7 @@ Analista de Datos con experiencia en **Power BI, SQL, Python y automatización d
 **Herramientas:** Power BI · DAX · Power Query · Modelado de datos
 
 📥 [Descargar archivo .pbix](./proyecto-RH
-/Dashboard de Analisis de Personal.pbix) &nbsp;|&nbsp; 📄 [Ver detalle del proyecto](./proyecto-RH/README.md)
+/Dashboard-de-Analisis-de-Personal.pbix) &nbsp;|&nbsp; 📄 [Ver detalle del proyecto](./proyecto-RH/README.md)
 
 ---
 
@@ -68,7 +68,7 @@ Analista de Datos con experiencia en **Power BI, SQL, Python y automatización d
 **Herramientas:** Power BI · DAX · Power Query · Modelado de datos
 
 📥 [Descargar archivo .pbix](./proyecto-Call-Center
-/Analisis Call Center.pbix) &nbsp;|&nbsp; 📄 [Ver detalle del proyecto](./proyecto-Call-Center/README.md)
+/Analisis-Call-Center.pbix) &nbsp;|&nbsp; 📄 [Ver detalle del proyecto](./proyecto-Call-Center/README.md)
 
 ---
 
